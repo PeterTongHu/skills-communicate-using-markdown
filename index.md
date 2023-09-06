@@ -15,3 +15,7 @@ x = 10
 y = 1
 x += y
 ```
+
+- [x] Start this course
+- [ ] Finish this course
+- [ ] Happy!
