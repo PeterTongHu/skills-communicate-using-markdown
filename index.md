@@ -8,3 +8,10 @@
 Added titles.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```python
+x = 10
+y = 1
+x += y
+```
